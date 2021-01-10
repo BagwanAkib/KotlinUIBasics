@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mu_activity_life_cycle"
+        android:title="@string/activity_life_cycle" />
+    <item
+        android:id="@+id/mu_enter_text_program"
+        android:title="@string/edit_text_to_textview" />
+    <item
+        android:id="@+id/mu_async_program"
+        android:title="@string/async_program" />
+</menu>

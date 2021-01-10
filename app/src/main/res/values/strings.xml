@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinUIBasics</string>
+    <string name="click">Click</string>
+    <string name="enter_text">Enter text</string>
+    <string name="activity_life_cycle">Activity Life Cycle</string>
+    <string name="edit_text_to_textview">Edit Text to TextView</string>
+    <string name="async_program">Async Program</string>
+</resources>
